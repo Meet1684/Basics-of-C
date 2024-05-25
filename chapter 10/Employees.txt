@@ -1,0 +1,5 @@
+Name : meet
+Salary : 12000.00
+
+Name : adnhsh
+Salary : 0.00
